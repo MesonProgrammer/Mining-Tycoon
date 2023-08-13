@@ -64,4 +64,10 @@ Enter the amount of a resource you want to sell and sell it using the button nex
 
 If you are short on money all your workers will quit their jobs since they are not getting paid. To prevent this, unassign the workers working in your mines by choosing 0 miners/drillers then go to the "Firing" section and fire them. This will get your income back and you can sell resources to get money back before it's too late.
 
+To save your game, click on the "Save Game" button below the "Selling" box. This will make a save file in the "saves" folder you created earlier (I hope). To load your previous game, run the game and instead of clicking "New Game", click on "Load Game". You should see the window.
+
+![Screenshot 2023-08-13 190049](https://github.com/MesonProgrammer/Mining-Tycoon/assets/128739161/e6f050ad-840f-4f24-9035-02ec13ea9dc1)
+
+Click on the game you want to load and you can continue playing!
+
 That is the end of the tutorial. If you have any feedback, please submit them in the "Issues" category on my repository. Thanks for reading this file and have fun!
